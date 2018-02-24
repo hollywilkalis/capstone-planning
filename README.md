@@ -3,6 +3,7 @@
 #### By Holly Wilkalis
 
 ## Description
+Project repository: https://github.com/hollywilkalis/wic-photo-library
 
 #### Project’s Purpose or Goal
 The customer has a new photo library that they would like to make available to their employees, who are located in offices across the state. The photos are used for educational materials, presentations, and other related projects. The goal is to increase the viability of this resource by providing a searchable library to allow their users the ability to search the library based on topic-based keywords (such as breastfeeding or toddler) and download photos for local use.
@@ -17,7 +18,8 @@ I'm still researching host server options for the project files.
 
 #### Tools, frameworks, libraries, APIs, modules and/or other resources needed to meet the MVP
 * React
-* A styling framework such as Materialize or Bootstrap (leaning towards Materialize at this time
+* A styling framework such as Materialize or Bootstrap (leaning towards Materialize at this time)
+2/23/18 update: After further research, don't like the Materialize customization options available with React. Spent a little time this afternoon investigating others, including react-md.
 * Javascript
 
 
